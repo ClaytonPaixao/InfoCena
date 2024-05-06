@@ -1,0 +1,18 @@
+p{
+    margin: 10px 10px 10px 10px;
+}
+
+img{
+    height: 100px;
+    width: 100px;
+}
+
+#especial {
+    color: red;
+    text-align: center;
+    font-size: 30px;
+}
+
+a{
+    margin-right: 50px;
+}
